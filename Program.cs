@@ -11,9 +11,8 @@ namespace E1
     {
         static void Main(string[] args)
         {
-            String c = "";
-            c = Console.ReadLine();
-            AntlrInputStream inputStream = new AntlrInputStream(c);
+            
+            AntlrInputStream inputStream = new AntlrInputStream(Console.In);
 
             GrammLexer lexer = new GrammLexer(inputStream);
 
