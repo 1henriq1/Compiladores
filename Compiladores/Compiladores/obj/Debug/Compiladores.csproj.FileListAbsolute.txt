@@ -1,0 +1,15 @@
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\bin\Debug\Compiladores.exe.config
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Compiladores.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Compiladores.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\bin\Debug\Compiladores.exe
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\bin\Debug\Compiladores.pdb
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1Lexer.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1Parser.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1Listener.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1BaseListener.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1Visitor.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Combined1BaseVisitor.cs
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Compiladores.exe
+C:\Users\Henrique\Desktop\Faculdade\Compiladores\Compiladores\Compiladores\obj\Debug\Compiladores.pdb

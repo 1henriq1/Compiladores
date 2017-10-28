@@ -1,0 +1,8 @@
+OPEN=1
+CLOSE=2
+ID=3
+OPX=4
+OPS=5
+SPACE=6
+'('=1
+')'=2
