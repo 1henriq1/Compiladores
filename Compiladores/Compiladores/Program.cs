@@ -14,14 +14,14 @@ namespace E1
 
             AntlrInputStream inputStream = new AntlrInputStream(Console.In);
 
-            GrammLexer lexer = new GrammLexer(inputStream);
+            Combined1Lexer lexer = new Combined1Lexer(inputStream);
 
 
             CommonTokenStream bts = new CommonTokenStream(lexer);
             bts.Fill();
             IToken tk = lexer.NextToken();
 
-            GrammParser p = new GrammParser(bts);
+            Combined1Parser p = new Combined1Parser(bts);
             p.start();
             while (1 == 1)
             {
